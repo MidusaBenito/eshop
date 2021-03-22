@@ -1,2 +1,2 @@
 # eshop
-This is an ecoomerce shop built using django
+This is an ecommerce shop built using django
